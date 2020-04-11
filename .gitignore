@@ -1,0 +1,10 @@
+.tmp
+.project
+.idea
+.DS_Store
+npm-debug.log
+.vscode
+bin
+node_modules
+coverage
+.nyc_output
