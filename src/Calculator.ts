@@ -9,7 +9,4 @@ export default class calculator {
     return c;
   }
 
-  static UnCoverede(a: number, b: number): number {
-    return a;
-  }
 }
