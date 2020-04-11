@@ -10,7 +10,6 @@ export default class calculator {
   }
 
   static UnCoverede(a: number, b: number): number {
-    let c = a - b;
-    return c;
+    return a;
   }
 }
